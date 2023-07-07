@@ -1,0 +1,52 @@
+
+.formback {
+  
+  height: 450px;
+  width: 30%;
+  background-color: rgb(50, 15, 250);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 85px;
+  padding-left: 35px;
+  padding-top: 35px;
+  border-radius: 13px;
+  line-height: 300%;
+  position: relative;
+  border-style: dotted;
+  border-color: rgb(2, 2, 2);
+}
+
+.mb-1 {
+  width: 90%;
+  color: white;
+  
+}
+
+.mb-2 {
+  width: 90%;
+  color: white;
+}
+
+.mb-3 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+  color: white;
+}
+
+
+.form-check-input{
+  margin-top: 16px;
+}
+
+.muted{
+  color: rgb(196, 195, 195);
+}
+
+.pics {
+  position: absolute;
+  bottom: -21px;
+  width: 100%;
+}
+
+
